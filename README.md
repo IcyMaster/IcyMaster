@@ -17,7 +17,9 @@
 <h3>:telephone_receiver: Contact Me :</h3>
 
 ![](https://img.shields.io/badge/Telegram:-@icymaster-informational?style=flat&logo=telegram&logoColor=dark&color=00a5e0)
-![](https://img.shields.io/badge/Email:-icymaster2020@gmail.com-informational?style=flat&logo=gmail&logoColor=dark&color=ff425f)
+
+![](https://img.shields.io/badge/Email:-icymaster2020@gmail.com-informational?style=flat&logo=gmail&logoColor=dark&color=ff1737)
+
 ![](https://img.shields.io/badge/Steam:-icyMaster-informational?style=flat&logo=Steam&logoColor=dark&color=121214)
 
 [![Discord](https://discord.c99.nl/widget/theme-2/413032360930705430.png)](https://discord.com)
