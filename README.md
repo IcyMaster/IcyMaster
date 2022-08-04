@@ -34,8 +34,8 @@
 
 <h4>:grimacing: Langs that I Worked Less ( i am not fluent )</h4>
 
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/python-%23181818?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
+[![PHP](https://img.shields.io/badge/php-%234D588E?style=for-the-badge&logo=php&logoColor=white)](#)
 
 <h4>:telephone_receiver: Contact Me :</h4>
 
