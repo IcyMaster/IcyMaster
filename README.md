@@ -16,8 +16,7 @@
 
 <h4>:clock10: Langs And Tools I'm Learning :</h4>
 
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)](https://www.qt.io)
+[![Rust](https://img.shields.io/badge/rust-%2300599C.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
 <h4>:first_quarter_moon: My Daily Routine :</h4>
 
