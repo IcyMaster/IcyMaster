@@ -4,7 +4,7 @@
 - :white_check_mark: **Let's learn something from other mistakes , because life is not too long for us to experience all thing**
 - :heart_on_fire: **I love .Net and especially C#** :boom:
 - :x: **Closed source does not develop**
-- **Console.writeline(" :smiley: Enjoy ");**
+- **Console.WriteLine(" :smiley: Enjoy ");**
 
 ## :arrow_down: About me :
 
