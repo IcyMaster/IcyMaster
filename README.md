@@ -14,7 +14,7 @@
 [![asp.net](https://img.shields.io/badge/-Asp.net-%231674AA?style=for-the-badge&logoColor=white)](https://asp.net)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.com)
 
-<h4>:clock10: Langs And Tools I'm Learning :</h4>
+<h4>:clock10: Langs I'm Learning :</h4>
 
 [![Rust](https://img.shields.io/badge/rust-%2300599C.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
