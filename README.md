@@ -40,7 +40,7 @@
 
 [![Telegram](https://img.shields.io/badge/-IcyMaster-1ca0f1?style=flat-square&logo=telegram&logoColor=white)](https://t.me/IcyMaster)
 [![Steam](https://img.shields.io/badge/IcyMaster-dark?style=flat-square&logo=Steam&logoColor=dark&color=121214)](https://steamcommunity.com/id/icymaster)
-[![Gmail](https://img.shields.io/badge/icymaster2020@gmail.com-white?style=flat-square&logo=gmail&logoColor=white&color=cb0f38)]()
+[![Gmail](https://img.shields.io/badge/icymaster2020@gmail.com-white?style=flat-square&logo=gmail&logoColor=white&color=cb0f38)](#)
 
 [![Discord](https://discord.c99.nl/widget/theme-2/413032360930705430.png)](https://discord.com)
 
